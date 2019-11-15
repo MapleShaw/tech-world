@@ -41,7 +41,7 @@ tip：mac 版的安装，docker-compose 已经一起安装好了
 
 ## 3. Sentry 界面介绍
 
-![](Untitled-562df6c1-f342-420f-aa3a-ecc7eb41f3b9.png)
+![](/post-img/sentry/img01.png)
 
 - Organization(组织)：Sentry项目中用于管理的最大单位，比如某某产品的技术组
 - Teams(团队)：从属于组织，一个组织下可以有多个团队，比如前端团队
